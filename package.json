@@ -1,0 +1,30 @@
+{
+  "name": "@theitfoundation/localbase-it",
+  "version": "0.1.1",
+  "bin": {
+    "localbase-it": "./bin/localbase-it.js"
+  },
+  "description": "Self-hosted Backend-as-a-Service — multi-project Postgres backend that runs locally with a single npm start.",
+  "keywords": [
+    "baas",
+    "backend-as-a-service",
+    "postgres",
+    "self-hosted",
+    "local",
+    "authentication",
+    "realtime",
+    "storage",
+    "rest-api",
+    "dashboard"
+  ],
+  "author": "The -IT Foundation",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theitfoundation/localbase-it.git"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}
